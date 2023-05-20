@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# add--
+auth.json
+data/
+db/
+images/
+logs/
+.env
+
 # C extensions
 *.so
 
